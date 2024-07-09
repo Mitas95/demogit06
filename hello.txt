@@ -1,1 +1,2 @@
 Hello Git A
+Máy A sửa code theo chức năng.
